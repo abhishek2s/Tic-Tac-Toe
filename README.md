@@ -8,7 +8,7 @@
 2. **Navigate into the project directory:**
 
     ```bash
-   cd tictactoe-game
+   cd TicTacToe
    ```
 
 3. **Open the index.html file in any web browser:**
@@ -17,7 +17,7 @@
      ```
      
 ## Screenshots
-<img>Screenshot.png</img>
+
 
 MIT License
 ===========
