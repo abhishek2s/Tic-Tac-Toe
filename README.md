@@ -17,7 +17,7 @@
      ```
      
 ## Screenshots
-![Uploading Screenshot.png…]()
+![image alt](https://github.com/abhishek2s/Tic-Tac-Toe/blob/main/Screenshot.png?raw=true)
 
 
 MIT License
